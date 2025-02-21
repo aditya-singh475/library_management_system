@@ -17,4 +17,10 @@ A simple **Library Management System** built using **HTML, CSS, and JavaScript**
 - **JavaScript**: Handling book operations dynamically.
 
 ## 📂 Project Structure
+Library-Management-System/
+│── index.html       # Main HTML file (Structure of the webpage)
+│── styles.css       # CSS file (Styling for UI)
+│── script.js        # JavaScript file (Functionality for book management)
+│── README.md        # Documentation for the project
+
 
